@@ -1,0 +1,24 @@
+
+  body {
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif; 
+  }
+  /*aligns text to center and changes the font to times new roman*/ 
+  .container {
+    margin: 300px auto; /* Add 300px red margins on both sides and center horizontally */
+    background-color: red; /* Set the background color to red */
+    padding: 20px; 
+      /* Add some padding inside the container */
+  }
+  
+  button {
+    background-color: rgb(255, 0, 0);
+    color: black;
+    border: 1px solid black;
+      /*boarder around button
+    padding: 10px 20px;
+      /* give space of 10 px*/
+    border-radius: 5px;
+      /*gives the button a rounded corner*/
+  }
+  
